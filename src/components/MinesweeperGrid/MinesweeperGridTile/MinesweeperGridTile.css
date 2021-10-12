@@ -1,0 +1,17 @@
+.tile {
+    height: 30px;
+    width: 30px;
+    background-color: gainsboro;
+    float: left;
+    text-align: center;
+    font-weight: bolder;
+    /*box-shadow: inset 1px 1px 1px 1px #000;*/
+    box-shadow: inset 0px 0px 1px #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pressedTile {
+    background-color: darkgrey;
+}

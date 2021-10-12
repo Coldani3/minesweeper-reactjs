@@ -45,6 +45,14 @@ class Minesweeper {
             }
         }
     }
+
+    pressTile(clickX, clickY) {
+
+    }
+
+    flagTile(clickX, clickY) {
+        
+    }
 }
 
 export default Minesweeper;
